@@ -1,3 +1,4 @@
+
 <h1 align="center">ANDRADE</h1>
 
 <p align="center">
@@ -6,15 +7,12 @@
 
 ---
 
-<p>
-  <img src="https://img.shields.io/badge/root%40andrade%3A~%24-0D0D0D?style=for-the-badge&logo=gnubash&logoColor=FF5722&labelColor=0D0D0D&color=161616" />
-  <img src="https://img.shields.io/badge/./fsociety.sh-161616?style=for-the-badge&logoColor=FF5722&labelColor=161616&color=161616" />
-</p>
+```console
+root@andrade:~$ ls
+fsociety00.dat  readme.txt
 
-```text
-[ OK ] olá, amigo.
-[ OK ] acesso concedido.
-[ .. ] sistema em observação.
+root@andrade:~$ cat readme.txt
+LEAVE ME HERE
 ```
 
 Trabalho com sistemas, redes e aplicações. Nos projetos pessoais, desenvolvo soluções web e mobile e exploro formas de simplificar tarefas com código.
