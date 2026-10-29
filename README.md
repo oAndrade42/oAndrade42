@@ -1,32 +1,50 @@
 ![Banner escuro com caveira em chamas](./banner.png)
 
-# ANDRADE
+<h1 align="center">ANDRADE</h1>
 
-**Analista de TI**  /  Infraestrutura  /  Desenvolvimento  /  Automação
+<p align="center">
+  <code>root@andrade:~$ whoami</code>
+  <br />
+  <strong>Analista de TI</strong> &nbsp; / &nbsp; Infraestrutura &nbsp; / &nbsp; Desenvolvimento &nbsp; / &nbsp; Automação
+</p>
 
 Trabalho com sistemas, redes e aplicações. Nos projetos pessoais, desenvolvo soluções web e mobile e exploro formas de simplificar tarefas com código.
 
 ---
 
-### `01 / TECNOLOGIAS`
+### `01 // TECNOLOGIAS`
 
 **Desenvolvimento**
 
-![React](https://img.shields.io/badge/React-171717?style=flat-square&logo=react&logoColor=FF5722) ![TypeScript](https://img.shields.io/badge/TypeScript-171717?style=flat-square&logo=typescript&logoColor=FF5722) ![JavaScript](https://img.shields.io/badge/JavaScript-171717?style=flat-square&logo=javascript&logoColor=FF5722) ![Python](https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=FF5722) ![Django](https://img.shields.io/badge/Django-171717?style=flat-square&logo=django&logoColor=FF5722)
+<p>
+  <img src="./badges/react.png" alt="React" width="158" />
+  <img src="./badges/typescript.png" alt="TypeScript" width="158" />
+  <img src="./badges/javascript.png" alt="JavaScript" width="158" />
+  <img src="./badges/python.png" alt="Python" width="158" />
+  <img src="./badges/django.png" alt="Django" width="158" />
+</p>
 
 **Infraestrutura e ferramentas**
 
-![Linux](https://img.shields.io/badge/Linux-171717?style=flat-square&logo=linux&logoColor=FF5722) ![Docker](https://img.shields.io/badge/Docker-171717?style=flat-square&logo=docker&logoColor=FF5722) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171717?style=flat-square&logo=postgresql&logoColor=FF5722) ![Git](https://img.shields.io/badge/Git-171717?style=flat-square&logo=git&logoColor=FF5722) ![GitHub](https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=FF5722)
+<p>
+  <img src="./badges/linux.png" alt="Linux" width="158" />
+  <img src="./badges/docker.png" alt="Docker" width="158" />
+  <img src="./badges/postgresql.png" alt="PostgreSQL" width="158" />
+  <img src="./badges/git.png" alt="Git" width="158" />
+  <img src="./badges/github.png" alt="GitHub" width="158" />
+</p>
 
 ---
 
-### `02 / EM FOCO`
+### `02 // EM FOCO`
 
-- **Web / PWA** — aplicações responsivas e interfaces práticas.
-- **Android** — aplicativos e recursos em tempo real.
-- **Infraestrutura** — contêineres, servidores, redes e serviços.
-- **Automação** — scripts, integrações e otimização de processos.
+**`WEB / PWA`** — aplicações responsivas e interfaces práticas.  
+**`ANDROID`** — aplicativos e recursos em tempo real.  
+**`INFRAESTRUTURA`** — contêineres, servidores, redes e serviços.  
+**`AUTOMAÇÃO`** — scripts, integrações e otimização de processos.
 
 ---
 
-[Instagram](https://www.instagram.com/http.pandrade/)  ·  [GitHub](https://github.com/oAndrade42)
+### `03 // LINKS`
+
+[Instagram](https://www.instagram.com/http.pandrade/) &nbsp; · &nbsp; [GitHub](https://github.com/oAndrade42)
