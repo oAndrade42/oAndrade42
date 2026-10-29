@@ -1,16 +1,28 @@
+
 ![Banner escuro com caveira em chamas](./banner.png)
 
-<h1 alinhar="centro">ANDRADE</h1>
+<dividir alinhar="centro">
 
-<p alinhar="centro">
-  <código>root@andrade:~$ uau</código>
-  <br />
-  <forte>Analista de TI</forte> &nbsp; / &nbsp; Infraestrutura &nbsp; / &nbsp; Desenvolvimento &nbsp; / &nbsp; Automação
-</p>
+# ANDRADE
+
+`root@andrade:~$ uau`
+
+**Analista de TI** &nbsp; / &nbsp; Infraestrutura &nbsp; / &nbsp; Desenvolvimento &nbsp; / &nbsp; Automação
+
+</dividir>
+
+```console
+root@andrade:~$ ./status.sh
+
+[ OK] sistemas online
+[ OK] ideias em desenvolvimento
+[ .. ] próximo projeto carregando_
+```
 
 Trabalho com sistemas, redes e aplicações. Nos projetos pessoais, desenvolvendo soluções web e mobile e explorando formas de simplificar tarefas com código.
+
 ---
- 
+
 ### `01 // TECNOLOGIAS`
 
 **Desenvolvimento**
