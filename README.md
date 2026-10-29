@@ -16,7 +16,6 @@ root@andrade:~$ ./fsociety.sh
 
 [ OK] Olá, amigo.
 [ OK ] fsociety // acesso concedido
-[ .. ] 05/09 // aguardando sinal_
 ```
 
 Trabalho com sistemas, redes e aplicações. Nos projetos pessoais, desenvolvendo soluções web e mobile e explorando formas de simplificar tarefas com código.
@@ -43,7 +42,7 @@ Trabalho com sistemas, redes e aplicações. Nos projetos pessoais, desenvolvend
 
 ---
 
-### `02 //EM FOCO`
+### `02 // EM FOCO`
 
 **`REDE / PWA`** — aplicações responsivas e interfaces práticas.  
 **`ANDRÓIDE`** — aplicativos e recursos em tempo real.  
