@@ -48,6 +48,22 @@ Trabalho com sistemas, redes e aplicações. Nos projetos pessoais, desenvolvo s
 
 ---
 
+<!--
+FUTURA SECAO DE PROJETOS
+
+Ativar quando houver repositorios publicos para destacar.
+
+### `03 // PROJETOS`
+
+[![PROJETO 01](https://img.shields.io/badge/PROJETO_01-161616?style=for-the-badge&logo=github&logoColor=FF5722)](https://github.com/oAndrade42/REPOSITORIO_01)
+
+[![PROJETO 02](https://img.shields.io/badge/PROJETO_02-161616?style=for-the-badge&logo=github&logoColor=FF5722)](https://github.com/oAndrade42/REPOSITORIO_02)
+
+[![PROJETO 03](https://img.shields.io/badge/PROJETO_03-161616?style=for-the-badge&logo=github&logoColor=FF5722)](https://github.com/oAndrade42/REPOSITORIO_03)
+
+Quando ativar, renumerar LINKS para 04.
+-->
+
 ### `03 // LINKS`
 
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-161616?style=for-the-badge&logo=instagram&logoColor=FF5722)](https://www.instagram.com/http.pandrade/)
