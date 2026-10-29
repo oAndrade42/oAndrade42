@@ -1,22 +1,22 @@
 
 ![Banner escuro com caveira em chamas](./banner.png)
 
-<h1 align="center">ANDRADE</h1>
+<h1 alinhar="centro">ANDRADE</h1>
 
-<p align="center">
-  <code>root@andrade:~$ whoami</code>
+<p alinhar="centro">
+  <código>root@andrade:~$ uau</código>
 </p>
 
-<p align="center">
-  <strong>Analista de TI</strong> &nbsp; / &nbsp; Infraestrutura &nbsp; / &nbsp; Desenvolvimento &nbsp; / &nbsp; Automação
+<p alinhar="centro">
+  <forte>Analista de TI</forte> &nbsp; / &nbsp; Infraestrutura &nbsp; / &nbsp; Desenvolvimento &nbsp; / &nbsp; Automação
 </p>
 
 ```console
-root@andrade:~$ ./status.sh
+root@andrade:~$ ./fsociety.sh
 
-[ OK ] sistemas online
-[ OK ] ideias em desenvolvimento
-[ .. ] próximo projeto carregando_
+[ OK] Olá, amigo.
+[ OK ] fsociety // acesso concedido
+[ .. ] 05/09 // aguardando sinal_
 ```
 
 Trabalho com sistemas, redes e aplicações. Nos projetos pessoais, desenvolvendo soluções web e mobile e explorando formas de simplificar tarefas com código.
@@ -27,8 +27,8 @@ Trabalho com sistemas, redes e aplicações. Nos projetos pessoais, desenvolvend
 
 **Desenvolvimento**
 
-![React](https://img.shields.io/badge/React-161616?style=for-the-badge&logo=react&logoColor=FF5722)
-![TypeScript](https://img.shields.io/badge/TypeScript-161616?style=for-the-badge&logo=typescript&logoColor=FF5722)
+![Reagir](https://img.shields.io/badge/React-161616?style=for-the-badge&logo=react&logoColor=FF5722)
+![TipoScript](https://img.shields.io/badge/TypeScript-161616?style=for-the-badge&logo=typescript&logoColor=FF5722)
 ![JavaScript](https://img.shields.io/badge/JavaScript-161616?style=for-the-badge&logo=javascript&logoColor=FF5722)
 ![Python](https://img.shields.io/badge/Python-161616?style=for-the-badge&logo=python&logoColor=FF5722)
 ![Django](https://img.shields.io/badge/Django-161616?style=for-the-badge&logo=django&logoColor=FF5722)
@@ -43,11 +43,11 @@ Trabalho com sistemas, redes e aplicações. Nos projetos pessoais, desenvolvend
 
 ---
 
-### `02 // EM FOCO`
+### `02 //EM FOCO`
 
-**`WEB / PWA`** — aplicações responsivas e interfaces práticas.  
-**`ANDROID`** — aplicativos e recursos em tempo real.  
-**`INFRAESTRUTURA`** — contêineres, servidores, redes e serviços.  
+**`REDE / PWA`** — aplicações responsivas e interfaces práticas.  
+**`ANDRÓIDE`** — aplicativos e recursos em tempo real.  
+**`INFRAESTRUTURA`** — contadores, servidores, redes e serviços.  
 **`AUTOMAÇÃO`** — scripts, integrações e otimização de processos.
 
 ---
