@@ -10,7 +10,7 @@
 ```console
 root@andrade:~$ ./fsociety.sh
 
-[ OK] Olá, amigo.
+[ OK ] Olá, amigo.
 [ OK ] fsociety // acesso concedido
 ```
 
@@ -38,15 +38,16 @@ Trabalho com sistemas, redes e aplicações. Nos projetos pessoais, desenvolvend
 
 ---
 
-### `02 //EM FOCO`
+### `02 // EM FOCO`
 
-**`REDE / PWA`** — aplicações responsivas e interfaces práticas.  
-**`ANDRÓIDE`** — aplicativos e recursos em tempo real.  
-**`INFRAESTRUTURA`** — contadores, servidores, redes e serviços.  
+**`WEB / PWA`** — aplicações responsivas e interfaces práticas.  
+**`ANDROID`** — aplicativos e recursos em tempo real.  
+**`INFRAESTRUTURA`** — contêineres, servidores, redes e serviços.  
 **`AUTOMAÇÃO`** — scripts, integrações e otimização de processos.
 
 ---
 
 ### `03 // LINKS`
 
-[Instagram](https://www.instagram.com/http.pandrade/) &nbsp; · &nbsp; [GitHub](https://github.com/oAndrade42)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-161616?style=for-the-badge&logo=instagram&logoColor=FF5722)](https://www.instagram.com/http.pandrade/)
+[![GitHub](https://img.shields.io/badge/GITHUB-161616?style=for-the-badge&logo=github&logoColor=FF5722)](https://github.com/oAndrade42)
