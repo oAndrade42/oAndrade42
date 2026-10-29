@@ -1,8 +1,8 @@
 
-<h1 alinhar="centro">ANDRADE</h1>
+<h1 align="center">ANDRADE</h1>
 
-<p alinhar="centro">
-  <forte>Analista de TI</forte> &nbsp; / &nbsp; Infraestrutura &nbsp; / &nbsp; Desenvolvimento &nbsp; / &nbsp; Automação
+<p align="center">
+  <strong>Analista de TI</strong> &nbsp; / &nbsp; Infraestrutura &nbsp; / &nbsp; Desenvolvimento &nbsp; / &nbsp; Automação
 </p>
 
 ---
@@ -22,8 +22,8 @@ Trabalho com sistemas, redes e aplicações. Nos projetos pessoais, desenvolvend
 
 **Desenvolvimento**
 
-![Reagir](https://img.shields.io/badge/React-161616?style=for-the-badge&logo=react&logoColor=FF5722)
-![TipoScript](https://img.shields.io/badge/TypeScript-161616?style=for-the-badge&logo=typescript&logoColor=FF5722)
+![React](https://img.shields.io/badge/React-161616?style=for-the-badge&logo=react&logoColor=FF5722)
+![TypeScript](https://img.shields.io/badge/TypeScript-161616?style=for-the-badge&logo=typescript&logoColor=FF5722)
 ![JavaScript](https://img.shields.io/badge/JavaScript-161616?style=for-the-badge&logo=javascript&logoColor=FF5722)
 ![Python](https://img.shields.io/badge/Python-161616?style=for-the-badge&logo=python&logoColor=FF5722)
 ![Django](https://img.shields.io/badge/Django-161616?style=for-the-badge&logo=django&logoColor=FF5722)
