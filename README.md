@@ -1,46 +1,41 @@
 ![Banner escuro com caveira em chamas](./banner.png)
 
-<h1 align="center">ANDRADE</h1>
+<h1 alinhar="centro">ANDRADE</h1>
 
-<p align="center">
-  <code>root@andrade:~$ whoami</code>
+<p alinhar="centro">
+  <código>root@andrade:~$ uau</código>
   <br />
-  <strong>Analista de TI</strong> &nbsp; / &nbsp; Infraestrutura &nbsp; / &nbsp; Desenvolvimento &nbsp; / &nbsp; Automação
+  <forte>Analista de TI</forte> &nbsp; / &nbsp; Infraestrutura &nbsp; / &nbsp; Desenvolvimento &nbsp; / &nbsp; Automação
 </p>
 
-Trabalho com sistemas, redes e aplicações. Nos projetos pessoais, desenvolvo soluções web e mobile e exploro formas de simplificar tarefas com código.
-
+Trabalho com sistemas, redes e aplicações. Nos projetos pessoais, desenvolvendo soluções web e mobile e explorando formas de simplificar tarefas com código.
 ---
-
+ 
 ### `01 // TECNOLOGIAS`
 
 **Desenvolvimento**
 
-<p>
-  <img src="./badges/react.png" alt="React" width="158" />
-  <img src="./badges/typescript.png" alt="TypeScript" width="158" />
-  <img src="./badges/javascript.png" alt="JavaScript" width="158" />
-  <img src="./badges/python.png" alt="Python" width="158" />
-  <img src="./badges/django.png" alt="Django" width="158" />
-</p>
+![Reagir](https://img.shields.io/badge/React-161616?style=for-the-badge&logo=react&logoColor=FF5722)
+![TipoScript](https://img.shields.io/badge/TypeScript-161616?style=for-the-badge&logo=typescript&logoColor=FF5722)
+![JavaScript](https://img.shields.io/badge/JavaScript-161616?style=for-the-badge&logo=javascript&logoColor=FF5722)
+![Python](https://img.shields.io/badge/Python-161616?style=for-the-badge&logo=python&logoColor=FF5722)
+![Django](https://img.shields.io/badge/Django-161616?style=for-the-badge&logo=django&logoColor=FF5722)
 
 **Infraestrutura e ferramentas**
 
-<p>
-  <img src="./badges/linux.png" alt="Linux" width="158" />
-  <img src="./badges/docker.png" alt="Docker" width="158" />
-  <img src="./badges/postgresql.png" alt="PostgreSQL" width="158" />
-  <img src="./badges/git.png" alt="Git" width="158" />
-  <img src="./badges/github.png" alt="GitHub" width="158" />
-</p>
+![Linux](https://img.shields.io/badge/Linux-161616?style=for-the-badge&logo=linux&logoColor=FF5722)
+![Docker](https://img.shields.io/badge/Docker-161616?style=for-the-badge&logo=docker&logoColor=FF5722)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161616?style=for-the-badge&logo=postgresql&logoColor=FF5722)
+![Git](https://img.shields.io/badge/Git-161616?style=for-the-badge&logo=git&logoColor=FF5722)
+![GitHub](https://img.shields.io/badge/GitHub-161616?style=for-the-badge&logo=github&logoColor=FF5722)
 
 ---
 
-### `02 // EM FOCO`
+### `02 //EM FOCO`
 
-**`WEB / PWA`** — aplicações responsivas e interfaces práticas.  
-**`ANDROID`** — aplicativos e recursos em tempo real.  
-**`INFRAESTRUTURA`** — contêineres, servidores, redes e serviços.  
+**`REDE / PWA`** — aplicações responsivas e interfaces práticas.  
+**`ANDRÓIDE`** — aplicativos e recursos em tempo real.  
+**`INFRAESTRUTURA`** — contadores, servidores, redes e serviços.  
 **`AUTOMAÇÃO`** — scripts, integrações e otimização de processos.
 
 ---
