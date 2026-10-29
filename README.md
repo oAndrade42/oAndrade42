@@ -1,6 +1,4 @@
 
-![Banner escuro com caveira em chamas](./banner.png)
-
 <h1 alinhar="centro">ANDRADE</h1>
 
 <p alinhar="centro">
@@ -10,6 +8,8 @@
 <p alinhar="centro">
   <forte>Analista de TI</forte> &nbsp; / &nbsp; Infraestrutura &nbsp; / &nbsp; Desenvolvimento &nbsp; / &nbsp; Automação
 </p>
+
+---
 
 ```console
 root@andrade:~$ ./fsociety.sh
@@ -42,12 +42,12 @@ Trabalho com sistemas, redes e aplicações. Nos projetos pessoais, desenvolvend
 
 ---
 
-### `02 // EM FOCO`
+### `02 //EM FOCO`
 
-**`REDE / PWA`** — aplicações responsivas e interfaces práticas.  
-**`ANDRÓIDE`** — aplicativos e recursos em tempo real.  
-**`INFRAESTRUTURA`** — contadores, servidores, redes e serviços.  
-**`AUTOMAÇÃO`** — scripts, integrações e otimização de processos.
+- **`REDE / PWA`** — aplicações responsivas e interfaces práticas.
+- **`ANDRÓIDE`** — aplicativos e recursos em tempo real.
+- **`INFRAESTRUTURA`** — contadores, servidores, redes e serviços.
+- **`AUTOMAÇÃO`** — scripts, integrações e otimização de processos.
 
 ---
 
