@@ -1,5 +1,5 @@
 <dividir alinhar="centro">
-  <imagem fonte="./banner.png" alt="ANDRADE // CÓDIGO. CAOS. CRIAR. — arte de caveira em chamas" largura="100%" />
+  <imagem fonte="./banner.png" alt="Arte de esqueleto em chamas" largura="100%" />
   <br /><br />
   <imagem fonte="https://img.shields.io/badge/STATUS-ONLINE-FF5722?style=for-the-badge&rótuloCor=111111" alt="Status: online" />
   <imagem fonte="https://img.shields.io/badge/FOCO-CRIAR%20%26%20AUTOMATIZAR-F0E5D4?style=for-the-badge&rótuloCor=111111" alt="Foco: criar e automatizar" />
@@ -51,7 +51,7 @@ root@andrade:~$ uau
 
 ### `04 // REPOSITÓRIOS`
 
-Os projetos públicos parecem estar conformes antes dos dispensados. Enquanto isso, acompanhe as contribuições e atividades diretamente no meu [perfil do GitHub](https://github.com/oAndrade42).
+Os projetos públicos são listados conforme antes dos dispensados. Enquanto isso, acompanhe as contribuições e atividades diretamente no meu [perfil do GitHub](https://github.com/oAndrade42).
 
 ---
 
