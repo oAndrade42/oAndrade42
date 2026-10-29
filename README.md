@@ -44,10 +44,10 @@ Trabalho com sistemas, redes e aplicações. Nos projetos pessoais, desenvolvend
 
 ### `02 //EM FOCO`
 
-- **`REDE / PWA`** — aplicações responsivas e interfaces práticas.
-- **`ANDRÓIDE`** — aplicativos e recursos em tempo real.
-- **`INFRAESTRUTURA`** — contadores, servidores, redes e serviços.
-- **`AUTOMAÇÃO`** — scripts, integrações e otimização de processos.
+**`REDE / PWA`** — aplicações responsivas e interfaces práticas.  
+**`ANDRÓIDE`** — aplicativos e recursos em tempo real.  
+**`INFRAESTRUTURA`** — contadores, servidores, redes e serviços.  
+**`AUTOMAÇÃO`** — scripts, integrações e otimização de processos.
 
 ---
 
