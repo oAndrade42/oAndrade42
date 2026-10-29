@@ -1,13 +1,13 @@
 
-<h1 alinhar="centro">ANDRADE</h1>
+<dividir alinhar="centro">
+  <h1>ANDRADE</h1>
 
-<p alinhar="centro">
-  <código>root@andrade:~$ uau</código>
-</p>
+  <p><código>root@andrade:~$ uau</código></p>
 
-<p alinhar="centro">
-  <forte>Analista de TI</forte> &nbsp; / &nbsp; Infraestrutura &nbsp; / &nbsp; Desenvolvimento &nbsp; / &nbsp; Automação
-</p>
+  <p>
+    <forte>Analista de TI</forte> &nbsp; / &nbsp; Infraestrutura &nbsp; / &nbsp; Desenvolvimento &nbsp; / &nbsp; Automação
+  </p>
+</dividir>
 
 ---
 
